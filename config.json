@@ -1,0 +1,27 @@
+{
+  "ownerNumber": "6289528652225@s.whatsapp.net",
+  "ownerName": "FauziPacarGracie",
+  "botName": "FZYbotzV2",
+  "packname": "follow",
+  "author": "@FauziDev",
+  "pathimg": "./media/Fauzi.jpg",
+  "apikey": {
+    "caliph": "caliphkey",
+    "miko": "Mikokey"
+  },
+  "hmm": {
+    "yt": "https://youtube.com/@riycoders",
+    "ig": "https://instagram.com/riycoders",
+    "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
+  },
+  "donasi": {
+	"dana": "089528652225",
+	"gopay": "089528652225"
+  },
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
